@@ -1,9 +1,5 @@
 [
   {
-    "password": "alpha123",
-    "expires_at": "2025-06-30 12:00 PM"
-  },
-  {
     "password": "echo654",
     "expires_at": "2025-06-30 12:00 PM"
   },
